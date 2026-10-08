@@ -1,0 +1,14 @@
+# never commit
+*.key
+*.pem
+*.env
+.env*
+secrets*
+credentials*
+*.seed
+*.keystore
+wallet*.json
+
+# internal-only material — this repo is public, keep commercial detail out
+*.internal.md
+_private/
